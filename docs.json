@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Aida Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#000000"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -17,11 +17,9 @@
             "group": "Get Started",
             "pages": [
               "index",
-              "quickstart",
-              "development",
-              "product-updates",
               "terms-of-service",
-              "privacy-policy"
+              "privacy-policy",
+              "product-updates"
             ]
           }
         ]
