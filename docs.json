@@ -4,8 +4,8 @@
   "name": "Aida Documentation",
   "colors": {
     "primary": "#00B5AD",
-    "light": "#000000",
-    "dark": "#20C6BF"
+    "light": "#20C6BF",
+    "dark": "#000000"
   },
   "favicon": "/favicon.png",
   "navigation": {
