@@ -9,11 +9,16 @@
   },
   "favicon": "/favicon.png",
   "navigation": {
-    "pages": [
-      "index",
-      "terms-of-service",
-      "privacy-policy",
-      "product-updates"
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "index",
+          "terms-of-service",
+          "privacy-policy",
+          "product-updates"
+        ]
+      }
     ],
     "global": {
       "anchors": [
