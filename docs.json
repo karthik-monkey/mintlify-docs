@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "Aida Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
+    "primary": "#00B5AD",
+    "light": "#20C6BF",
     "dark": "#000000"
   },
   "favicon": "/favicon.png",
