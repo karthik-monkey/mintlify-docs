@@ -9,21 +9,11 @@
   },
   "favicon": "/favicon.png",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "terms-of-service",
-              "privacy-policy",
-              "product-updates"
-            ]
-          }
-        ]
-      }
+    "pages": [
+      "index",
+      "terms-of-service",
+      "privacy-policy",
+      "product-updates"
     ],
     "global": {
       "anchors": [
